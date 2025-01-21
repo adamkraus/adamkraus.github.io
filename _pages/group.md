@@ -28,7 +28,7 @@ Postdoctoral Researchers
 * Will Best (2018--)
 * Andrew Vanderburg (2017-2020, NASA Sagan Postdoctoral Fellow) *(-> Asst. Prof., Univ. of Wisconsin -> Asst. Prof., MIT)*
 * Aaron Rizzuto (2014-2021, 51 Pegasi b Postdoctoral Fellow) *(-> Goodyear)*
-* Trent Dupuy (2014-2017 -> Asst. Astronomer, Gemini Observatory) (-> Reader, Univ. of Edinburgh)*
+* Trent Dupuy (2014-2017 -> Asst. Astronomer, Gemini Observatory) *(-> Reader, Univ. of Edinburgh)*
 * Andrew Mann (2013-2017, McDonald Postdoctoral Fellow, NASA Hubble Postdoctoral Fellow) *(-> Assoc. Prof., UNC-Chapel Hill)*
 
 Undergraduate Students
