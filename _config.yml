@@ -31,7 +31,7 @@ author:
   email            : "alk@astro.as.utexas.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Kraus%2C%20A.%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   ads              : "https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Kraus%2C%20A.%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   googlescholar    : "https://scholar.google.com/citations?user=vzs5vFYAAAAJ&hl"
   impactstory      : # URL
