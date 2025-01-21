@@ -22,9 +22,9 @@ repository               : "adamkraus/adamkraus.github.io"
 author:
   # Biographic information
   avatar           : "100_2237.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Adam L. Kraus"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Professor of Astrophysics at the University of Texas at Austin"
   location         : "Austin, TX"
   employer         : "Univ. of Texas - Austin"
   uri              : # URL
