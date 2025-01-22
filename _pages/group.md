@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I've been fortunate to collaborate with an exceptional group of graduate students and postdoctoral fellows during my time here at UT, many of whom have now gone on to bigger and better things. My current and former group members include:
+
 Graduate Students
 ======
 * Nathanael Burns-Watson (2024--)
