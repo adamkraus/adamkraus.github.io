@@ -24,14 +24,14 @@ author:
   avatar           : "100_2237.jpg"
   name             : "Adam L. Kraus"
   pronouns         : # example: "she/her"  
-  bio              : "Professor of Astrophysics @ \\The University of Texas at Austin"
+  bio              : "Professor of Astrophysics @ The University of Texas at Austin"
   location         : "Austin, TX"
   employer         : "Univ. of Texas - Austin"
   uri              : # URL
   email            : "alk@astro.as.utexas.edu" 
 
   # Academic websites
-  arxiv            : "https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Kraus%2C%20A.%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+  arxiv            : #"https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Kraus%2C%20A.%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   ads              : "https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Kraus%2C%20A.%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   googlescholar    : "https://scholar.google.com/citations?user=vzs5vFYAAAAJ&hl"
   impactstory      : # URL
