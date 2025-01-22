@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Adam L2. Kraus"
+title                    : #"Adam L. Kraus"
 title_separator          : "-"
-name                     : #&name "Adam L. Kraus"
+name                     : &name "Adam L. Kraus"
 description              : &description "personal description"
 url                      : https://adamkraus.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
