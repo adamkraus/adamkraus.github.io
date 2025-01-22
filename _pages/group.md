@@ -23,9 +23,9 @@ Graduate Students
 Postdoctoral Researchers
 ======
 * Matthew De Furio (2023--, NSF Postdoctoral Fellow)
+* Will Best (2018--)
 * Amber Medina (2021-2022, Provost's Postdoctoral Fellow) *(-> US DoD)*
 * Benjamin Tofflemire (2018-2024, 51 Pegasi b Postdoctoral Fellow) *(-> Research Scientist, NASA)*
-* Will Best (2018--)
 * Andrew Vanderburg (2017-2020, NASA Sagan Postdoctoral Fellow) *(-> Asst. Prof., Univ. of Wisconsin -> Asst. Prof., MIT)*
 * Aaron Rizzuto (2014-2021, 51 Pegasi b Postdoctoral Fellow) *(-> Goodyear)*
 * Trent Dupuy (2014-2017 -> Asst. Astronomer, Gemini Observatory) *(-> Reader, Univ. of Edinburgh)*
