@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Adam L. Kraus"
+title: "aAdam L. Kraus"
 author_profile: true
 redirect_from: 
   - /about/
