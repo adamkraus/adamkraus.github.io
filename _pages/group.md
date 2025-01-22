@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Group"
+title: "Current & Former Research Group Members"
 permalink: /group/
 author_profile: true
 redirect_from:
